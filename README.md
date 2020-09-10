@@ -14,3 +14,5 @@ Doc :
 - https://www.fil.univ-lille1.fr/~meftali/PdM/Theme2.pdf
 
 - https://zestedesavoir.com/articles/97/introduction-a-la-retroingenierie-de-binaires/
+
+- https://zestedesavoir.com/articles/130/programmez-en-langage-dassemblage-sous-linux/
