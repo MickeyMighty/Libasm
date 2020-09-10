@@ -12,3 +12,5 @@ Doc :
 - https://www.developpez.net/forums/d891558/autres-langages/assembleur/x86-32-bits-64-bits/quoi-sert-commande-mov-assembleur/
 
 - https://www.fil.univ-lille1.fr/~meftali/PdM/Theme2.pdf
+
+- https://zestedesavoir.com/articles/97/introduction-a-la-retroingenierie-de-binaires/
