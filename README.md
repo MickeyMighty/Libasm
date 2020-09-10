@@ -16,3 +16,6 @@ Doc :
 - https://zestedesavoir.com/articles/97/introduction-a-la-retroingenierie-de-binaires/
 
 - https://zestedesavoir.com/articles/130/programmez-en-langage-dassemblage-sous-linux/
+
+RFlags :
+- https://fr.wikipedia.org/wiki/RFLAGS
