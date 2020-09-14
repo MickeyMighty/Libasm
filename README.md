@@ -19,3 +19,5 @@ Doc :
 
 RFlags :
 - https://fr.wikipedia.org/wiki/RFLAGS
+
+- https://www.kali-linux.fr/hacking/overflow-comment-ca-marche
