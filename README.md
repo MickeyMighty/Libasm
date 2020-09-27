@@ -23,3 +23,6 @@ RFlags :
 - https://www.kali-linux.fr/hacking/overflow-comment-ca-marche
 
 - https://zestedesavoir.com/forums/sujet/4201/quelques-questions-en-assembleur-linux/
+
+Ref :
+- https://c9x.me/x86/
