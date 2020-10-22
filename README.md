@@ -31,3 +31,6 @@ Ref :
 
 Asm lower bit :
 - https://stackoverflow.com/questions/6577458/64-bit-assembly-when-to-use-smaller-size-registers
+
+Register :
+- https://riptutorial.com/assembly/topic/4802/registers
