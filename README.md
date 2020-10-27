@@ -34,3 +34,6 @@ Asm lower bit :
 
 Register :
 - https://riptutorial.com/assembly/topic/4802/registers
+
+Syscall :
+- https://perso.univ-st-etienne.fr/ezequel/L2info/coursAssembleur_x86_64.pdf
