@@ -38,5 +38,5 @@ Register :
 Syscall :
 - https://perso.univ-st-etienne.fr/ezequel/L2info/coursAssembleur_x86_64.pdf
 
-Ernno :
+Errno :
 - https://stackoverflow.com/questions/62046052/how-to-change-errno-value-in-asm-x64
