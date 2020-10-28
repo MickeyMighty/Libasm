@@ -40,3 +40,6 @@ Syscall :
 
 Errno :
 - https://stackoverflow.com/questions/62046052/how-to-change-errno-value-in-asm-x64
+
+Asm 64 :
+- https://www.lri.fr/~filliatr/ens/compil/x86-64.pdf
