@@ -43,3 +43,6 @@ Errno :
 
 Asm 64 :
 - https://www.lri.fr/~filliatr/ens/compil/x86-64.pdf
+
+JE ou JZ ? :
+- https://stackoverflow.com/questions/14267081/difference-between-je-jne-and-jz-jnz
